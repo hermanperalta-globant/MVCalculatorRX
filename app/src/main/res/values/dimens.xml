@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calc_display_text_size">30sp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="button_width">0dp</dimen>
+    <integer name="weight_button_row">4</integer>
+    <integer name="weight_button">1</integer>
+</resources>
