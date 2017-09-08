@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MPVCalculatorRX</string>
+    <string name="action_0">0</string>
+    <string name="action_1">1</string>
+    <string name="action_2">2</string>
+    <string name="action_3">3</string>
+    <string name="action_4">4</string>
+    <string name="action_5">5</string>
+    <string name="action_6">6</string>
+    <string name="action_7">7</string>
+    <string name="action_8">8</string>
+    <string name="action_9">9</string>
+    <string name="action_addition">+</string>
+    <string name="action_multiplication">*</string>
+    <string name="action_division">/</string>
+    <string name="action_subtraction">-</string>
+    <string name="action_reset">C</string>
+    <string name="action_equals">=</string>
 </resources>
